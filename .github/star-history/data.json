@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "repository": "GEORGEWWWU/NetSpeed-Dynamic",
+  "repository": "itsharex/NetSpeed-Dynamic",
   "backfilledAt": "2026-08-12T15:46:19.339Z",
   "backfill": [
     {
@@ -540,6 +540,10 @@
     {
       "date": "2026-11-08",
       "stars": 314
+    },
+    {
+      "date": "2026-11-09",
+      "stars": 0
     }
   ]
 }
